@@ -9,7 +9,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/reverse-string.js"
+      "program": "${workspaceFolder}/nth-triangular-number.js"
     }
   ]
 }
