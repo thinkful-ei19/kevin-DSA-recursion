@@ -9,7 +9,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/string-splitter.js"
+      "program": "${workspaceFolder}/binary.js"
     }
   ]
 }
