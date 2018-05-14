@@ -6,7 +6,7 @@ function sheepCounter(input) {
   }
 
   console.log(input + ' sheep over the fence');
-  sheepCounter(input -1);
+  return sheepCounter(input -1);
 }
 
 sheepCounter(3);
