@@ -9,7 +9,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/nth-triangular-number.js"
+      "program": "${workspaceFolder}/string-splitter.js"
     }
   ]
 }
